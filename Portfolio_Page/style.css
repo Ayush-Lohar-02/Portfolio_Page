@@ -1,0 +1,96 @@
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+
+#about {
+    background-color: #fff;
+    padding: 20px;
+}
+
+#about img {
+    max-width: 100%;
+    border-radius: 50%;
+    margin: 20px auto;
+    display: block;
+}
+
+
+#skills {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+#skills ul {
+    list-style: none;
+}
+
+#skills li {
+    margin: 5px 0;
+}
+
+
+#projects {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project img {
+    max-width: 100%;
+}
+
+
+#resume {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+#resume a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+
+#contact {
+    background-color: #fff;
+    padding: 20px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
